@@ -3,7 +3,7 @@ name = "cf-worker-ws-dev" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2024-05-26"
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "31b62809-fceb-482a-8961-91303500c9ac"
+UUID = "a0601356-3595-43d7-834a-ba5c1bf58f5e"
